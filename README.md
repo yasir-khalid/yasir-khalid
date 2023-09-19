@@ -1,13 +1,3 @@
-# 💫 About Me:
-- 🔭 I am currently working on publishing my first ever Python package
-- 🌱 I'm currently learning how to take your development workflows to production-grade and to package them
-- 👯 I am looking to collaborate on open-source Python libraries
-- 🤔 I'm looking to help with uplifting the Python community, and oppurtunities to speak at Python meetups
-- 💬 Ask me about how to get started with coding, and best resources online
-- 📫 How to reach me: www.linkedin.com/in/yasir-khalid
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've jumped off a plane from 14,000ft (Yes, I do skydiving)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-khalid) 
 
