@@ -1,8 +1,14 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-khalid) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Yasir is currently an Assistant manager at KPMG UK, and implements data-driven solutions for Tier-1 banks using Spark, Elasticsearch and Scala. He has a passion for technology, and loves developing ad-hoc web-apps on the side, using Python. 
+
+Yasir's expertise spans data engineering and web analytics. He has also worked with global corporations, overseeing prototype development for a major tobacco manufacturer and contributed to product development in Audience measurement for Ipsos UK. 
+
+Currently he’s implementing Quantexa’s solution for international trade finance using large scale entity resolution, and big data analytics - while working with cross-functional teams using Agile and Scrum methodologies - and upskilling on CI/CD pipelines across the product deployment journey. 
+
+He likes learning about different parts of the software engineering lifecycle with the realisation that it's completely fine to be an average on a secondary technology than having no knowledge at all (helps you make better decisions and make teams move fast)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasir-khalid&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasir-khalid&theme=default&hide_border=false)<br/>
