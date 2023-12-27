@@ -1,5 +1,6 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-khalid) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-khalid)   [![](https://visitcount.itsvg.in/api?id=yasir-khalid&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 Yasir is currently an Assistant manager at KPMG UK, and implements data-driven solutions for Tier-1 banks using Spark, Elasticsearch and Scala. He has a passion for technology, and loves developing ad-hoc web-apps on the side, using Python. 
 
@@ -13,6 +14,3 @@ He likes learning about different parts of the software engineering lifecycle wi
 ![](https://github-readme-stats.vercel.app/api?username=yasir-khalid&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasir-khalid&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir-khalid&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=yasir-khalid&icon=0&color=0)](https://visitcount.itsvg.in)
