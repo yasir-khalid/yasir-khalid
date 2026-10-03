@@ -1,5 +1,3 @@
 I am currently a senior developer working in financial services industry, with a focus on hands-on backend systems and architecture; implementing entity resolution solutions for bank’s customers and connected parties. My skillset spans Data engineering, DevOps, Microservices, and Agentic AI workflows; while deeply being involved with the product and UI/UX design. 
 
 Beyond my primary role, I’m rapid prototyping products, working with Agentic coding tools, to develop [Sportscanner](https://www.sportscanner.co.uk/) which is serving 350+ users across London - keeping track of user journeys and web analytics. 
-
-![](https://github-readme-stats.vercel.app/api?username=yasir-khalid&theme=default&hide_border=false&include_all_commits=false&count_private=false)
